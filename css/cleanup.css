@@ -5,7 +5,6 @@ div#wall #tag-2,
 body div#wall #tag-3.slick,
 div#wall #tag-4,
 #wall #tag-5,
-#wall .parent #tag-6,
-#wall .parent #tag-7 {
+#wall .parent {
   display: none;
 }
